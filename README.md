@@ -19,9 +19,7 @@
         <a href="#">
             <img src="https://img.shields.io/badge/Ingeniería%20Mecánica-Dinámica%20de%20Cuerpos%20Rígidos-blue?style=for-the-badge&logo=autodesk" alt="Ingeniería Mecánica Dinámica de Cuerpos Rígidos">
         </a>
-        <a href="#">
-            <img src="https://img.shields.io/badge/Ingeniería%20Eléctrica-Sistemas%20de%20Control-orange?style=for-the-badge&logo=autodesk" alt="Ingeniería Eléctrica Sistemas de Control">
-        </a>
+    
  
 </div>
 
