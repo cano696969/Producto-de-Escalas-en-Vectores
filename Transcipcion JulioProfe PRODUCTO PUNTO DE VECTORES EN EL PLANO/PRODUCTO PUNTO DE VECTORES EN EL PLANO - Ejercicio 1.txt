@@ -1,0 +1,141 @@
+00:00:01:00 - 00:00:04:00
+Dados los vectores en R dos
+
+00:00:04:06 - 00:00:07:22
+a igual a menos cinco y más cuatro J
+
+00:00:08:07 - 00:00:13:19
+y el vector Bes igual a menos tres y menos ocho j.
+
+00:00:14:02 - 00:00:16:21
+Vamos a determinar el producto,
+
+00:00:16:21 - 00:00:19:21
+punto o producto escalar
+
+00:00:19:21 - 00:00:23:01
+entre los vectores A y B
+
+00:00:25:04 - 00:00:28:04
+para encontrar el producto punto
+
+00:00:28:15 - 00:00:31:11
+o producto escalar
+
+00:00:31:11 - 00:00:34:11
+entre los vectores dados
+
+00:00:34:26 - 00:00:37:06
+que son vectores en el plano.
+
+00:00:37:06 - 00:00:40:06
+Entonces vamos a escribircada uno de ellos
+
+00:00:40:06 - 00:00:43:24
+deshaciendo la notaciónde vectores unitarios.
+
+00:00:44:04 - 00:00:47:00
+Entonces comenzamos con el vector A
+
+00:00:47:00 - 00:00:50:00
+que será menos cinco
+
+00:00:50:17 - 00:00:53:08
+coma cuatro.
+
+00:00:53:08 - 00:00:55:04
+Utilizamos esta notación
+
+00:00:55:04 - 00:01:00:11
+por ser más sencilla de trabajary esto le hacemos producto
+
+00:01:00:11 - 00:01:03:25
+punto con el vector B que nos queda
+
+00:01:04:11 - 00:01:07:11
+menos tres coma ocho.
+
+00:01:07:12 - 00:01:09:25
+También deshaciendo la notación
+
+00:01:09:25 - 00:01:12:25
+de vectores unitarios y J.
+
+00:01:13:04 - 00:01:16:13
+Aquí observa las dos componentes
+
+00:01:16:24 - 00:01:20:18
+que tiene cada uno de los vectores en R2.
+
+00:01:21:10 - 00:01:24:29
+A continuación hacemos ya la operación
+
+00:01:26:28 - 00:01:28:08
+propia del
+
+00:01:28:08 - 00:01:31:08
+producto, punto o producto escalar.
+
+00:01:31:25 - 00:01:36:05
+Vamos a multiplicar las componentesen X entre sí,
+
+00:01:37:05 - 00:01:40:27
+es decir, menos cinco por menos tres.
+
+00:01:41:25 - 00:01:45:25
+Y a eso le vamos a sumar la multiplicación
+
+00:01:45:25 - 00:01:49:22
+de las componentes ñ entre sí,
+
+00:01:50:18 - 00:01:53:29
+es decir, cuatro por menos ocho.
+
+00:01:54:06 - 00:01:58:06
+Entonces componentes en Xse multiplican entre sí.
+
+00:01:58:21 - 00:02:01:25
+Componentes Ñ se multiplican entre sí
+
+00:02:02:16 - 00:02:06:03
+y esos dos productos se deben sumar.
+
+00:02:08:05 - 00:02:10:06
+Procedemos ahora
+
+00:02:10:06 - 00:02:13:09
+a resolver esas operaciones.
+
+00:02:14:23 - 00:02:18:06
+Tenemos entonces menos cinco por tres.
+
+00:02:18:06 - 00:02:23:08
+Nos da quince positivoy por aquí tenemos cuatro por menos ocho,
+
+00:02:23:22 - 00:02:26:22
+que nos da menos treinta y dos.
+
+00:02:26:25 - 00:02:29:10
+Entonces ya podemos dar
+
+00:02:29:10 - 00:02:32:10
+la respuesta al ejercicio.
+
+00:02:32:12 - 00:02:35:26
+El producto, punto o producto escalar
+
+00:02:36:09 - 00:02:39:09
+entre los vectores A y B
+
+00:02:39:10 - 00:02:42:10
+es el resultado de esta operación
+
+00:02:43:00 - 00:02:46:00
+que nos da menos diecisiete.
+
+00:02:46:02 - 00:02:49:10
+Ésta será entonces la respuesta.
+
+00:02:50:12 - 00:02:52:04
+Y así hemos terminado.
+

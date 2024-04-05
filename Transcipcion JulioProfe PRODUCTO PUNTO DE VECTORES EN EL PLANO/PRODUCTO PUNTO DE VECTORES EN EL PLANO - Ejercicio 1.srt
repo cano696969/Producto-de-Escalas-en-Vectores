@@ -1,0 +1,194 @@
+﻿1
+00:00:01,000 --> 00:00:04,000
+Dados los vectores en R dos
+
+2
+00:00:04,200 --> 00:00:07,733
+a igual a menos cinco y más cuatro J
+
+3
+00:00:08,233 --> 00:00:13,633
+y el vector B
+es igual a menos tres y menos ocho j.
+
+4
+00:00:14,066 --> 00:00:16,700
+Vamos a determinar el producto,
+
+5
+00:00:16,700 --> 00:00:19,700
+punto o producto escalar
+
+6
+00:00:19,700 --> 00:00:23,033
+entre los vectores A y B
+
+7
+00:00:25,133 --> 00:00:28,133
+para encontrar el producto punto
+
+8
+00:00:28,500 --> 00:00:31,366
+o producto escalar
+
+9
+00:00:31,366 --> 00:00:34,366
+entre los vectores dados
+
+10
+00:00:34,866 --> 00:00:37,200
+que son vectores en el plano.
+
+11
+00:00:37,200 --> 00:00:40,200
+Entonces vamos a escribir
+cada uno de ellos
+
+12
+00:00:40,200 --> 00:00:43,800
+deshaciendo la notación
+de vectores unitarios.
+
+13
+00:00:44,133 --> 00:00:47,000
+Entonces comenzamos con el vector A
+
+14
+00:00:47,000 --> 00:00:50,000
+que será menos cinco
+
+15
+00:00:50,566 --> 00:00:53,266
+coma cuatro.
+
+16
+00:00:53,266 --> 00:00:55,133
+Utilizamos esta notación
+
+17
+00:00:55,133 --> 00:01:00,366
+por ser más sencilla de trabajar
+y esto le hacemos producto
+
+18
+00:01:00,366 --> 00:01:03,833
+punto con el vector B que nos queda
+
+19
+00:01:04,366 --> 00:01:07,366
+menos tres coma ocho.
+
+20
+00:01:07,400 --> 00:01:09,833
+También deshaciendo la notación
+
+21
+00:01:09,833 --> 00:01:12,833
+de vectores unitarios y J.
+
+22
+00:01:13,133 --> 00:01:16,433
+Aquí observa las dos componentes
+
+23
+00:01:16,800 --> 00:01:20,600
+que tiene cada uno de los vectores en R2.
+
+24
+00:01:21,333 --> 00:01:24,966
+A continuación hacemos ya la operación
+
+25
+00:01:26,933 --> 00:01:28,266
+propia del
+
+26
+00:01:28,266 --> 00:01:31,266
+producto, punto o producto escalar.
+
+27
+00:01:31,833 --> 00:01:36,166
+Vamos a multiplicar las componentes
+en X entre sí,
+
+28
+00:01:37,166 --> 00:01:40,900
+es decir, menos cinco por menos tres.
+
+29
+00:01:41,833 --> 00:01:45,833
+Y a eso le vamos a sumar la multiplicación
+
+30
+00:01:45,833 --> 00:01:49,733
+de las componentes ñ entre sí,
+
+31
+00:01:50,600 --> 00:01:53,966
+es decir, cuatro por menos ocho.
+
+32
+00:01:54,200 --> 00:01:58,200
+Entonces componentes en X
+se multiplican entre sí.
+
+33
+00:01:58,700 --> 00:02:01,833
+Componentes Ñ se multiplican entre sí
+
+34
+00:02:02,533 --> 00:02:06,100
+y esos dos productos se deben sumar.
+
+35
+00:02:08,166 --> 00:02:10,200
+Procedemos ahora
+
+36
+00:02:10,200 --> 00:02:13,300
+a resolver esas operaciones.
+
+37
+00:02:14,766 --> 00:02:18,200
+Tenemos entonces menos cinco por tres.
+
+38
+00:02:18,200 --> 00:02:23,266
+Nos da quince positivo
+y por aquí tenemos cuatro por menos ocho,
+
+39
+00:02:23,733 --> 00:02:26,733
+que nos da menos treinta y dos.
+
+40
+00:02:26,833 --> 00:02:29,333
+Entonces ya podemos dar
+
+41
+00:02:29,333 --> 00:02:32,333
+la respuesta al ejercicio.
+
+42
+00:02:32,400 --> 00:02:35,866
+El producto, punto o producto escalar
+
+43
+00:02:36,300 --> 00:02:39,300
+entre los vectores A y B
+
+44
+00:02:39,333 --> 00:02:42,333
+es el resultado de esta operación
+
+45
+00:02:43,000 --> 00:02:46,000
+que nos da menos diecisiete.
+
+46
+00:02:46,066 --> 00:02:49,333
+Ésta será entonces la respuesta.
+
+47
+00:02:50,400 --> 00:02:52,133
+Y así hemos terminado.
